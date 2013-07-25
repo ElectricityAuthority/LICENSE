@@ -1,0 +1,4 @@
+LICENSE
+=======
+
+Electricity Authority License
