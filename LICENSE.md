@@ -23,9 +23,11 @@ to 7 apply to your use of Models other than DOASA:
 
 (a) Subject to sub-clause (c) below, you may use, copy, adapt, modify, distribute, transfer, assign or sublicense the
 Models in whole or in part as you see fit for any purpose.
+
 (b) You agree to contact the Authority at imm@ea.govt.nz with any suggestions that you have regarding the Models,
 including suggestions for improvements or enhancements. You will not, or attempt to, restrict, impede or impose terms on
 the Authority's rights to further develop, adapt or modify in any manner the Models for any purpose.
+
 (c) Many of the Models are developed in GAMS which requires the user to have a GAMS licence in order to operate the
 Model. You are responsible for purchasing your own GAMS licences to operate the Models and the Authority shall have no
 liability or responsibility arising out of you failing to acquire a licence or for any breach by you of the GAMS licence
