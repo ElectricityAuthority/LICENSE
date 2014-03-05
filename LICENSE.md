@@ -6,10 +6,10 @@ industry and market monitoring functions, including:
     
     (a) Vectorised Scheduling Pricing and Dispatch (vSPD);
     (b) Hydro Supply Security test (HSS);
-    (c) Electricity Market Information tool (EMI);
+    (c) Electricity Market Information tools (EMI tools);
     (d) Dynamic Outer Approximation Sampling Algorithm (DOASA); and
     (e) except where we have informed you otherwise, any other applications, models and tools made available by the
-        Authority via the Authority's website, or at http://github.com/ElectricityAuthority, 
+        Authority via the Authority via the Authority's website, 
         
 together the "Models".
     
@@ -24,7 +24,7 @@ to 7 apply to your use of Models other than DOASA:
 (a) Subject to sub-clause (c) below, you may use, copy, adapt, modify, distribute, transfer, assign or sublicense the
 Models in whole or in part as you see fit for any purpose.
 
-(b) You agree to contact the Authority at imm@ea.govt.nz with any suggestions that you have regarding the Models,
+(b) You agree to contact the Authority at emi@ea.govt.nz with any suggestions that you have regarding the Models,
 including suggestions for improvements or enhancements. You will not, or attempt to, restrict, impede or impose terms on
 the Authority's rights to further develop, adapt or modify in any manner the Models for any purpose.
 
@@ -38,8 +38,7 @@ terms and conditions.
 
 (a) DOASA is licensed to the Authority by its third party licensor Stochastic Optimization Limited (SOL).
 
-(b) The Authority's Electricity Market Information tool (EMI), a Windows-based application developed by the Authority to
-facilitate use of the Models, provides the user interface for DOASA. You cannot use DOASA without using EMI.
+(b) The Authority's Electricity Market Information tool (EMI tools), a Windows-based application developed by the Authority to facilitate use of the Models, provides the user interface for DOASA. You cannot use DOASA without using EMI tools.
 
 (c) DOASA uses CLP, the COIN-OR open source LP code. CLP is distributed under the Eclipse Public Licence (version 0.1).
 You are responsible for complying with the Eclipse Public Licence in respect of your commercial use of DOASA and the 
