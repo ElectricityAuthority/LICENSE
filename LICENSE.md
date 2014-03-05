@@ -1,7 +1,7 @@
-LICENCE TO USE AUTHORITY MODELS
+**LICENCE TO USE AUTHORITY MODELS**
 
-Electricity Authority, a Crown entity established under section 12 of the Electricity Industry Act 2010 (“the
-Authority”) either owns or is authorised to licence applications, models and tools to support the Authority's
+**Electricity Authority**, a Crown entity established under section 12 of the Electricity Industry Act 2010 (“the
+**Authority**”) either owns or is authorised to licence applications, models and tools to support the Authority's
 industry and market monitoring functions, including:
     
     (a) Vectorised Scheduling Pricing and Dispatch (vSPD);
@@ -11,12 +11,12 @@ industry and market monitoring functions, including:
     (e) except where we have informed you otherwise, any other applications, models and tools made available by the
         Authority via the Authority via the Authority's website, 
         
-together the "Models".
+together the **"Models"**.
     
-Your use of the Models is subject to the following terms and conditions ("Licence"). By downloading or using a Model
+Your use of the Models is subject to the following terms and conditions (**"Licence"**). By downloading or using a Model
 you will be deemed to have agreed to this Licence without reservation or variation.
 
-1. USE RIGHTS AND LIMITATIONS
+**1. USE RIGHTS AND LIMITATIONS**
 
 1.1 Unless we inform you otherwise, the following terms and conditions in sub-clauses 1.1(a) to 1.1(c) and clauses 2
 to 7 apply to your use of Models other than DOASA:
@@ -51,12 +51,13 @@ releasing water from reservoirs for electricity generation.
 (e) You may not copy, adapt, modify, distribute, transfer, assign or sublicense DOASA.
 
 
-2. TERM
+**2. TERM**
+
 This Licence is perpetual. However, this Licence will terminate if you fail to comply with any term or condition of this
 Licence.
 
 
-3. EXCLUSION OF WARRANTIES
+**3. EXCLUSION OF WARRANTIES**
 
 (a) You assume sole responsibility for the installation, use and results obtained from the Models.
 
@@ -78,7 +79,7 @@ possibility of such damages or for any claim by any other party.
 the Authority's liability shall be limited to the sum of $1.00.
 
 
-4. COPYRIGHT
+**4. COPYRIGHT**
 
 (a) You acknowledge that the Models are the subject of copyright. You shall not during or any time during or after the
 expiry or termination of the licence engage in or permit any act which infringes that copyright and, without limiting 
@@ -90,19 +91,19 @@ a third party as a result of any breach of this Licence where that breach is cau
 any of your employees, subcontractors, agents, or other party within your reasonable control.
 
 
-5. THIRD PARTY CLAIMS
+**5. THIRD PARTY CLAIMS**
 
 You should promptly notify us if anyone makes a claim against you that the Models infringe their rights. If you give us
 such notice the Licence shall automatically terminate. This is your only remedy in the event of a claim of infringement.
 
 
-6. LAW
+**6. LAW**
 
 This licence is governed by the laws of New Zealand and the courts of New Zealand shall have non exclusive jurisdiction
 in any proceedings relating to it.
 
 
-7. QUESTIONS
+**7. QUESTIONS**
 
 If you have any questions concerning this licence you may contact the Authority by writing to the Authority at PO Box
 10041, Wellington 6143, New Zealand.
