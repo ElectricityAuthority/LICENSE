@@ -9,7 +9,7 @@ industry and market monitoring functions, including:
     (c) Electricity Market Information tools (EMI tools);
     (d) Dynamic Outer Approximation Sampling Algorithm (DOASA); and
     (e) except where we have informed you otherwise, any other applications, models and tools made available by the
-        Authority via the Authority via the Authority's website, 
+        Authority via the Authority's corporate website or the EMI website, 
         
 together the **"Models"**.
     
