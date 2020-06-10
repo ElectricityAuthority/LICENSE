@@ -8,8 +8,9 @@ industry and market monitoring functions, including:
     (b) Hydro Supply Security test (HSS);
     (c) Electricity Market Information tools (EMI tools);
     (d) Dynamic Outer Approximation Sampling Algorithm (DOASA); and
-    (e) except where we have informed you otherwise, any other applications, models and tools made available by the
-        Authority via the Authority's corporate website or the EMI website, 
+    (e) except where we have informed you otherwise, any other applications, models and tools made available by the 
+		Authority via the Authority's website (www.ea.govt.nz), the EMI website (www.emi.ea.govt.nz), or any other 
+		platform authorised by the Authority for such dissemination purposes (e.g. github.com/ElectricityAuthority),
         
 together the **"Models"**.
     
